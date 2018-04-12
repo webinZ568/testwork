@@ -6,4 +6,9 @@ laoliu
 add r2 changggeee
 add git gui
 add dev and dev2
+<<<<<<< HEAD
 add master
+=======
+add dev2
+>>>>>>> dev1
+end
