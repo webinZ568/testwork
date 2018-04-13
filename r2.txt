@@ -12,3 +12,4 @@ add master
 add dev2
 >>>>>>> dev1
 end
+add stop Fast forward
