@@ -13,3 +13,4 @@ add dev2
 >>>>>>> dev1
 end
 add stop Fast forward
+add master num in stash
